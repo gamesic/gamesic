@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gamesic
+- 👀 I’m interested in learning about CS and Programming 
+- 🌱 I’m currently learning Computer science
+- 💞️ I’m looking to collaborate on projects to better understand programming 
+- 📫 How to reach me @gabriel_rivera183 on instagram
